@@ -1,5 +1,6 @@
 mahasiswa = ("A001","Budi","informatika")
 print(mahasiswa)
+print(mahasiswa[1])
 
 mahasiswa = ("A001", "Budi", "informatika")
 for x in mahasiswa:
